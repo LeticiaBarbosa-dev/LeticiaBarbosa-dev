@@ -2,7 +2,7 @@
 
 - 🌱 Estudando Desenvolvimento Web
 - 💬 Entre em contato comigo pelo email: leticiapbs408@gmail.com
-- 📲 Linkedin: https://www.linkedin.com/in/let%C3%ADcia-barbosa-58a782193/
+- 📲 Linkedin: https://www.linkedin.com/in/leticia-pbs/
 - 😄 Pronouns: ela/dela
 
 <div align="center">
