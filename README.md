@@ -1,6 +1,6 @@
 ## Olá! Eu sou a Letícia Barbosa.
 
-- 🌱 Estudando Desenvolvimento Web
+- 🌱 Estudando ReactJs
 - 💬 Entre em contato comigo pelo email: leticiapbs408@gmail.com
 - 📲 Linkedin: https://www.linkedin.com/in/leticia-pbs/
 - 😄 Pronouns: ela/dela
