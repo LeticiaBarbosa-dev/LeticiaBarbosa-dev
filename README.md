@@ -2,7 +2,7 @@
 
 <p align="center">
   <code>> Olá, me chamo Letícia</code><br />
-  <strong>Desenvolvedora Web</strong> & <strong>Web Designer</strong> apaixonada por desenvolver soluções modernas e funcionais. 🚀
+  <strong>Desenvolvedora FrontEnd</strong> & <strong>Web Designer</strong> apaixonada por desenvolver soluções modernas e funcionais. 🚀
 </p>
 
 ---
